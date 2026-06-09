@@ -1,5 +1,5 @@
 # A001
 portfoloio<br>
-<b>สวัสดี </bbb> <br>
+<b>สวัสดี </b> <br>
 ยินดีต้อนรับ
 [about.md] 
